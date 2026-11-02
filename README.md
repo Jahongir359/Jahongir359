@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jahongir 👋
 
-<!--
-**Jahongir359/Jahongir359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web engineering student at Tokyo Multi AI College (東京マルチ・AI専門学校), graduating March 2027. I enjoy building web apps that solve real, everyday problems, and I'm looking for a web engineer role in Japan.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Web:** Flask, multilingual websites (Uzbek / Russian / English), Cloudflare Pages
+- **Also exploring:** cloud services and AI tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- [**ICEBERG_WEB**](https://github.com/Jahongir359/ICEBERG_WEB): website for Iceberg Study Center in Uzbekistan, in three languages, with an enquiry form. Live at [iceberglc.com](https://iceberglc.com).
+- [**College-ERP**](https://github.com/Jahongir359/College-ERP): a college management web application for handling student information.
+
+## Languages
+Uzbek (native) · Japanese (JLPT N3) · English (IELTS 7.5)
+
+## Contact
+You can reach me through [iceberglc.com](https://iceberglc.com) or by following me here on GitHub.
+
+日本で働くWebエンジニアを目指して勉強中です。よろしくお願いします。
