@@ -12,7 +12,7 @@ Web engineering student at Tokyo Multi AI College (東京マルチ・AI専門学
 - [**College-ERP**](https://github.com/Jahongir359/College-ERP): a college management web application for handling student information.
 
 ## Languages
-Uzbek (native) · Japanese (JLPT N3) · English (IELTS 7.5)
+Uzbek (native) · Japanese (JLPT N3) · English (IELTS 6.5)
 
 ## Contact
 You can reach me through [iceberglc.com](https://iceberglc.com) or by following me here on GitHub.
